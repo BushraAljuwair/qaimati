@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC-VvZbHwDrhEZnplpzRVaE7kKXuFh34PY',
-    appId: '1:946060192710:web:310174dd8745438fce60c7',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '946060192710',
     projectId: 'qaimati-aca70',
     authDomain: 'qaimati-aca70.firebaseapp.com',
